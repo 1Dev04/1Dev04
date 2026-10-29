@@ -1,25 +1,29 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="100"/>
+
+  <h1>Profile</h1>
 </div>
 
-<h1 align="center">Profile</h1>
+<table>
+  <tr>
+      <td align="left">
+        <a href="https://www.linkedin.com/in/krittiphon-yoonaitham-a291482b1/">
+          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.youtube.com/@DEVDummy">
+          <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
+        </a>
+      </td>
+      <td align="right">
+        <a href="https://krittiphon-portfolios.netlify.app/">
+          <img src="https://img.shields.io/badge/Portfolio-Web-brown?style=for-the-badge&logoColor=white" alt="Portfolio Website" />
+        </a>
+      </td>
+  </tr>
+</table>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/krittiphon-yoonaitham-a291482b1/?originalSubdomain=th">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@DEVDummy">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-
-  <a href="https://krittiphon-portfolios.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolios Web-brown?style=for-the-badge&logoColor=white" alt="TikTok Badge"/>
-  </a>
-
-  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=profiledev&style=flat-square&color=green" alt=""/>
-</div>
-</div>
 
 <h2>
   Hey there
