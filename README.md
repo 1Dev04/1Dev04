@@ -46,9 +46,14 @@ Currently studying online through a Credit Accumulation Program toward a
 
 ---
 
-## 🛍️ ABCat Shop
+##  Personal Project | SmartRFQ (BETA)
+•	Designing and developing a full-stack AI-assisted Request for Quotation (RFQ) platform with multilingual support.
+•	Built frontend, backend APIs, and database using Vue.js, ASP.NET Core (C#/.NET), SQL Server, and Neon PostgreSQL
+•	Managed cloud infrastructure and deployment on Azure, integrating Microsoft Entra ID, Cookie Authentication, OpenAI API, and Swagger UI.
 
-> Full-stack mobile eCommerce platform with AI-based analysis and production-ready deployment.
+## 🛍️ Capstone Project | Full-Stack Developer | ABCat Shop: AI-Powered eCommerce Platform with Smart Sizing Features 
+
+> Full-stack mobile eCommerce platform with AI-based detect, analysis and production-ready deployment.
 
 Link Youtube --> https://www.youtube.com/watch?v=nYeDC6I-XfQ
 
