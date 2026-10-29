@@ -46,7 +46,7 @@ Currently studying online through a Credit Accumulation Program toward a
 
 ---
 
-# 🛍️ ABCat Shop
+## 🛍️ ABCat Shop
 
 > Full-stack mobile eCommerce platform with AI-based analysis and production-ready deployment.
 
