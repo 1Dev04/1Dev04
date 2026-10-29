@@ -61,7 +61,7 @@ Currently studying online through a Credit Accumulation Program toward a
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-black?style=flat&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-black?style=flat&logo=netlify&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-1F6FEB?style=flat&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white)
 
 
