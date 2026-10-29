@@ -54,12 +54,17 @@ Currently studying online through a Credit Accumulation Program toward a
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-D2A838?style=flat&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-D1242F?style=flat&logo=firebase&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-blue?style=flat&logo=cloudinary&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-779ECB?style=flat&logo=cloudinary&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-CC5500?style=flat&logo=postman&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-4682B4?style=flat&logo=dbeaver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Render](https://img.shields.io/badge/Render-black?style=flat&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-black?style=flat&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white)
+
+
 
 
 
