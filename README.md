@@ -35,15 +35,14 @@
 ### I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
 specializing in building scalable web, mobile applications, Game Creator in Roblox, AI Prompt Engineer 
 
-I have hands-on experience developing end-to-end systems, including frontend, backend APIs, database design, and deployment. I have worked with CI/CD pipelines, containerization (Docker/Podman), and cloud platforms such as Vercel and Render.
+Recent Computer Science graduate with experience in Website and application development through an internship and academic projects. Interested in developing software that meets user and business needs. Willing to learn new technologies and adapt to different development environments based on project requirements. Seeking an opportunity to gain practical experience, improve technical skills, and grow as a software developer. 
 
-My recent project includes an AI-powered eCommerce platform with smart sizing analysis, where I designed RESTful APIs, implemented database architecture (PostgreSQL), and deployed production-ready applications.
+Currently studying online through a Credit Accumulation Program toward a 
+<strong>Master of Engineering</strong> in 
+<strong>Artificial Intelligence and Internet of Things</strong> 
+(International Program), Major: <strong>Applied AI</strong> 
+(<strong>TUXSA × SkillLane × Thammasat University</strong>).
 
-I also completed an internship as a Full Stack Developer at ClickNext, where I contributed to enterprise internal systems and backend services.
-
-I am passionate about building efficient, scalable systems and continuously improving my skills in modern web technologies.
-
-Open to Full Stack Developer opportunities (New Grad 2026).
 
 ---
 
