@@ -1,18 +1,14 @@
-<table width="100%">
+<div width="100%">
   <tr>
     <td align="left">
-      <h1>Profile</h1>
+      <h1>{/} PROFILE</h1>
     </td>
-  <td align="right" valign="middle">
-    <img src="https://komarev.com/ghpvc/?username=profiledev&style=flat-square&color=green" alt="Profile Views" />
-  </td>
+    <td align="right" valign="middle" size=2>
+      <img src="https://komarev.com/ghpvc/?username=profiledev&style=flat-square&color=green" alt="Profile Views" />
+    </td>
   </tr>
-
-</table>
-
-
-<img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="100"/>
-<table align="right">
+  
+ <table align="right">
   <tr>
       <td align="left">
         <a href="https://www.linkedin.com/in/krittiphon-yoonaitham-a291482b1/">
@@ -30,18 +26,10 @@
         </a>
       </td>
   </tr>
-</table>
-
-
-<h2>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h2>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="600" height="300"/>
+</table>   
 </div>
 
+<h2>Hi, I'm Moss | AKA_Code: 1DEV | AKA_Rapper: URMOSS </h2>
 
 ## :woman_technologist: About Me : 
 ### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
