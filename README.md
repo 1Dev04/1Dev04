@@ -51,9 +51,9 @@ Currently studying online through a Credit Accumulation Program toward a
 •	Built frontend, backend APIs, and database using Vue.js, ASP.NET Core (C#/.NET), SQL Server, and Neon PostgreSQL
 •	Managed cloud infrastructure and deployment on Azure, integrating Microsoft Entra ID, Cookie Authentication, OpenAI API, and Swagger UI.
 
-## 🛍️ Capstone Project | Full-Stack Developer | ABCat Shop: AI-Powered eCommerce Platform with Smart Sizing Features 
+## 🛍️ Capstone Project | ABCat Shop:  with Smart Sizing Features 
 
-> Full-stack mobile eCommerce platform with AI-based detect, analysis and production-ready deployment.
+> Full-Stack Developer on website, mobile eCommerce platform with Smart Sizing Features by AI-based Integated to detect and analysis so production-ready deployment.
 
 Link Youtube --> https://www.youtube.com/watch?v=nYeDC6I-XfQ
 
