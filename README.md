@@ -29,11 +29,11 @@
 </table>   
 </div>
 
-<h2 width="100%">Hi, I'm Moss | AKA_Code: 1DEV | AKA_Rapper: URMOSS </h2>
+<h2>Hi, I'm Moss</h2>
 
 ## :woman_technologist: About Me : 
-### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
-specializing in building scalable web and mobile applications using React, Flutter, and FastAPI.
+### I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
+specializing in building scalable web , mobile applications , AI Prompt Engineer 
 
 I have hands-on experience developing end-to-end systems, including frontend, backend APIs, database design, and deployment. I have worked with CI/CD pipelines, containerization (Docker/Podman), and cloud platforms such as Vercel and Render.
 
