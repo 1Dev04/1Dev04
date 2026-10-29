@@ -46,13 +46,25 @@ Currently studying online through a Credit Accumulation Program toward a
 
 ---
 
-##  Personal Project | SmartRFQ (BETA)
-•	Designing and developing a full-stack AI-assisted Request for Quotation (RFQ) platform with multilingual support.
-•	Built frontend, backend APIs, and database using Vue.js, ASP.NET Core (C#/.NET), SQL Server, and Neon PostgreSQL
-•	Managed cloud infrastructure and deployment on Azure, integrating Microsoft Entra ID, Cookie Authentication, OpenAI API, and Swagger UI.
+## 🧾 SmartRFQ (BETA)
+<strong>Personal Project</strong>
+>	Designing and developing a full-stack AI-assisted Request for Quotation (RFQ) platform with multilingual support.
 
-## 🛍️ Capstone Project | ABCat Shop:  with Smart Sizing Features 
+>	Built frontend, backend APIs, and database using Vue.js, ASP.NET Core (C#/.NET), SQL Server, and Neon PostgreSQL
 
+>	Managed cloud infrastructure and deployment on Azure, integrating Microsoft Entra ID, Cookie Authentication, OpenAI API, and Swagger UI.
+
+![Vue.js](https://img.shields.io/badge/Vuejs-238636?style=flat&logo=vue.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-D2A838?style=flat&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-D1242F?style=flat&logo=firebase&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-779ECB?style=flat&logo=cloudinary&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-CC5500?style=flat&logo=postman&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-4682B4?style=flat&logo=dbeaver&logoColor=white)
+
+
+## 🛍️ ABCat Shop
+<strong>Capstone Project</strong>
 > Full-Stack Developer on website, mobile eCommerce platform with Smart Sizing Features by AI-based Integated to detect and analysis so production-ready deployment.
 
 Link Youtube --> https://www.youtube.com/watch?v=nYeDC6I-XfQ
