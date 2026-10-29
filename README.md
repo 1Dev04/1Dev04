@@ -50,6 +50,10 @@ Currently studying online through a Credit Accumulation Program toward a
 
 > Full-stack mobile eCommerce platform with AI-based analysis and production-ready deployment.
 
+Link Youtube --> https://www.youtube.com/watch?v=nYeDC6I-XfQ
+
+Link AI Artist & Pet Product Designe --> https://abcat-brand.netlify.app/
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-D2A838?style=flat&logo=python&logoColor=white)
