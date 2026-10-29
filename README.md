@@ -29,7 +29,7 @@
 </table>   
 </div>
 
-<h2>Hi, I'm Moss | AKA_Code: 1DEV | AKA_Rapper: URMOSS </h2>
+<h2 width="100%">Hi, I'm Moss | AKA_Code: 1DEV | AKA_Rapper: URMOSS </h2>
 
 ## :woman_technologist: About Me : 
 ### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
