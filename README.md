@@ -52,10 +52,14 @@ Currently studying online through a Credit Accumulation Program toward a
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-D2A838?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-779ECB?style=flat&logo=cloudinary&logoColor=white)
+
+
+
 
 ---
 
