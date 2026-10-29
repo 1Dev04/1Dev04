@@ -1,10 +1,18 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="100"/>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h1>Profile</h1>
+    </td>
+  <td align="right" valign="middle">
+    <img src="https://komarev.com/ghpvc/?username=profiledev&style=flat-square&color=green" alt="Profile Views" />
+  </td>
+  </tr>
 
-  <h1>Profile</h1>
-</div>
+</table>
 
-<table>
+
+<img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="100"/>
+<table align="right">
   <tr>
       <td align="left">
         <a href="https://www.linkedin.com/in/krittiphon-yoonaitham-a291482b1/">
