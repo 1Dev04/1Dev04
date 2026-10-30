@@ -35,7 +35,7 @@
 
 ## :woman_technologist: About Me : 
 ### I am a Full-Stack Developer from Thailand. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-specializing in building scalable web, mobile applications, Game Creator in Roblox, AI Prompt Engineer 
+> specializing in building scalable web, mobile applications, Game Creator in Roblox, AI Prompt Engineer 
 
 Recent Computer Science graduate with experience in Website and application development through an internship and academic projects. Interested in developing software that meets user and business needs. Willing to learn new technologies and adapt to different development environments based on project requirements. Seeking an opportunity to gain practical experience, improve technical skills, and grow as a software developer. 
 
