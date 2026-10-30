@@ -69,6 +69,7 @@ Link Vedio in Fastwork.com --> https://drive.google.com/file/d/1RcKmaNF7ZSPUwW6v
 ![Cookie Auth](https://img.shields.io/badge/Cookie_Auth0-EB5424?style=flat&logo=auth0&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-0F0F0F?style=flat&logo=openai&logoColor=white)
 
 ## 🛍️ ABCat Shop
 <strong>Capstone Project</strong>
