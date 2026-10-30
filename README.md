@@ -46,12 +46,12 @@ Currently studying online through a Credit Accumulation Program toward a
 ---
 
 ## 🧾 SmartRFQ (BETA)
-<strong>Personal Project</strong>
->	Designing and developing a full-stack AI-assisted Request for Quotation (RFQ) platform with multilingual support.
+<strong>RFQ Personal Project</strong>
+>	<strong>Full-Stack & AI</strong>: Designed a multilingual, AI-assisted Request for Quotation (RFQ) platform using Vue.js, ASP.NET Core (C#/.NET), and OpenAI API.
 
->	Built frontend, backend APIs, and database using Vue.js, ASP.NET Core (C#/.NET), SQL Server, and Neon PostgreSQL
+>	<strong>Data Architecture</strong>: Engineered and managed dual-database environments utilizing SQL Server and Neon PostgreSQL.
 
->	Managed cloud infrastructure and deployment on Azure, integrating Microsoft Entra ID, Cookie Authentication, OpenAI API, and Swagger UI.
+>	<strong>Cloud & Security</strong>: Managed Azure cloud infrastructure, integrating Microsoft Entra ID, secure Cookie Authentication, and Swagger UI for API documentation.
 
 Link Vedio in Fastwork.com --> https://drive.google.com/file/d/1RcKmaNF7ZSPUwW6vg_mybwMdTW9OQZdO/view?usp=sharing
 
