@@ -59,7 +59,7 @@ Currently studying online through a Credit Accumulation Program toward a
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-779ECB?style=flat&logo=cloudinary&logoColor=white)
 ![Cookie Auth](https://img.shields.io/badge/Cookie_Auth0-EB5424?style=flat&logo=auth0&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ## 🛍️ ABCat Shop
 <strong>Capstone Project</strong>
