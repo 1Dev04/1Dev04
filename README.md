@@ -92,6 +92,23 @@ Link AI Artist & Pet Product Designe --> https://abcat-brand.netlify.app/
 ![Netlify](https://img.shields.io/badge/Netlify-1F6FEB?style=flat&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white)
 
+## ClickNext Co., Ltd. Intern (May – Oct 2025)
+<strong>SMSMKT Team Project</strong>
+
+> Full-Stack Development: Developed front-to-back features for SMSMKT business systems, including administrative BackOffice modules and SMS campaign controls using PHP, REST APIs, Bootstrap, and MySQL.
+
+> Modern Tech Platforms: Built the SMSMKT Monitor platform with Microsoft Authentication and admin features using NuxtJS (Vue), NestJS, and MongoDB.
+
+> API & DevOps: Developed/tested Template Message APIs to improve system reliability, and streamlined workflows using Docker and CI/CD pipelines (Jenkins, GitLab).
+
+> System Design: Collaborated in an SA-led workflow on requirement analysis, technical documentation, and structured system design.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+![Vue.js](https://img.shields.io/badge/Vuejs-238636?style=flat&logo=vue.js&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-4682B4?style=flat&logo=dbeaver&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-CC5500?style=flat&logo=postman&logoColor=white)
 
 ---
 ### :hammer_and_wrench: Tech Stack :
