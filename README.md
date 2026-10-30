@@ -55,13 +55,11 @@ Currently studying online through a Credit Accumulation Program toward a
 >	Managed cloud infrastructure and deployment on Azure, integrating Microsoft Entra ID, Cookie Authentication, OpenAI API, and Swagger UI.
 
 ![Vue.js](https://img.shields.io/badge/Vuejs-238636?style=flat&logo=vue.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-D2A838?style=flat&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-D1242F?style=flat&logo=firebase&logoColor=white)
+![ASP.NET_Core](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-779ECB?style=flat&logo=cloudinary&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-CC5500?style=flat&logo=postman&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-4682B4?style=flat&logo=dbeaver&logoColor=white)
-
+![Cookie Auth](https://img.shields.io/badge/Cookie_Auth0-EB5424?style=flat&logo=auth0&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure&logoColor=white)
 
 ## 🛍️ ABCat Shop
 <strong>Capstone Project</strong>
