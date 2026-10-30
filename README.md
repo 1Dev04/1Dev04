@@ -2,9 +2,6 @@
   <img src="https://github.com/1Dev04/1Dev04/blob/main/DEVVVVVVVV-1VVVVVVMVVVV0VVVSVVVVVSVVVV.png" alt="Profile Banner" width="100%">
 
   <tr>
-    <td align="left">
-      <h1>{/} PROFILE</h1>
-    </td>
     <td align="right" valign="middle" size=2>
       <img src="https://komarev.com/ghpvc/?username=profiledev&style=flat-square&color=green" alt="Profile Views" />
     </td>
