@@ -72,7 +72,16 @@ Link Vedio in Fastwork.com --> https://drive.google.com/file/d/1RcKmaNF7ZSPUwW6v
 
 ## 🛍️ ABCat Shop
 <strong>Capstone Project</strong>
-> Full-Stack Developer on website, mobile eCommerce platform with Smart Sizing Features by AI-based Integated to detect and analysis so production-ready deployment.
+> <strong>Mobile & Backend</strong>: Developed an eCommerce app using Flutter (Dart, BLoC) and FastAPI (Python), featuring an automated Smart Sizing feature.
+
+> <strong>AI Integration</strong>: Implemented a dual-stage OpenAI API pipeline to validate and detect,analyze image features, optimizing backend efficiency.
+
+> <strong>Auth & Data Management</strong>: Configured secure JWT Authentication, Firebase user management, and a PostgreSQL database hosted on rootless Podman containers.
+
+> <strong>Cloud & DevOps</strong>: Integrated Cloudinary CDN for asset delivery and automated Jenkins CI/CD with keep-alive scripts to eliminate Render cold starts.
+
+> <strong>Deployment</strong>: Managed multi-platform distribution, deploying web frontends via Vercel/Netlify alongside end-to-end Android (APK) and iOS (IPA Local) builds.
+
 
 Link Youtube --> https://www.youtube.com/watch?v=nYeDC6I-XfQ
 
@@ -95,13 +104,13 @@ Link AI Artist & Pet Product Designe --> https://abcat-brand.netlify.app/
 ## ClickNext Co., Ltd. Intern (May – Oct 2025)
 <strong>SMSMKT Team Project</strong>
 
-> Full-Stack Development: Developed front-to-back features for SMSMKT business systems, including administrative BackOffice modules and SMS campaign controls using PHP, REST APIs, Bootstrap, and MySQL.
+> <strong>Full-Stack Development</strong>: Developed front-to-back features for SMSMKT business systems, including administrative BackOffice modules and SMS campaign controls using PHP, REST APIs, Bootstrap, and MySQL.
 
-> Modern Tech Platforms: Built the SMSMKT Monitor platform with Microsoft Authentication and admin features using NuxtJS (Vue), NestJS, and MongoDB.
+> <strong>Modern Tech Platforms</strong>: Built the SMSMKT Monitor platform with Microsoft Authentication and admin features using NuxtJS (Vue), NestJS, and MongoDB.
 
-> API & DevOps: Developed/tested Template Message APIs to improve system reliability, and streamlined workflows using Docker and CI/CD pipelines (Jenkins, GitLab).
+> <strong>API & DevOps</strong>: Developed/tested Template Message APIs to improve system reliability, and streamlined workflows using Docker and CI/CD pipelines (Jenkins, GitLab).
 
-> System Design: Collaborated in an SA-led workflow on requirement analysis, technical documentation, and structured system design.
+> <strong>System Design</strong>: Collaborated in an SA-led workflow on requirement analysis, technical documentation, and structured system design.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
