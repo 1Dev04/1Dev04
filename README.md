@@ -69,7 +69,7 @@ Link Vedio in Fastwork.com --> https://drive.google.com/file/d/1RcKmaNF7ZSPUwW6v
 ![Cookie Auth](https://img.shields.io/badge/Cookie_Auth0-EB5424?style=flat&logo=auth0&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Gemini](https://img.shields.io/badge/OpenAI-0F0F0F?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4796E3?style=flat&logo=gemini&logoColor=white)
 
 ## 🛍️ ABCat Shop
 <strong>Capstone Project</strong>
@@ -101,6 +101,7 @@ Link AI Artist & Pet Product Designe --> https://abcat-brand.netlify.app/
 ![Render](https://img.shields.io/badge/Render-black?style=flat&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-1F6FEB?style=flat&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-0F0F0F?style=flat&logo=openai&logoColor=white)
 
 ## ClickNext Co., Ltd. Intern (May – Oct 2025)
 <strong>SMSMKT Team Project</strong>
