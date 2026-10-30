@@ -103,7 +103,7 @@ Link AI Artist & Pet Product Designe --> https://abcat-brand.netlify.app/
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0F0F0F?style=flat&logo=openai&logoColor=white)
 
-## ClickNext Co., Ltd. Intern (May – Oct 2025)
+## ClickNext Co., Ltd. Intern
 <strong>SMSMKT Team Project</strong>
 
 > <strong>Full-Stack Development</strong>: Developed front-to-back features for SMSMKT business systems, including administrative BackOffice modules and SMS campaign controls using PHP, REST APIs, Bootstrap, and MySQL.
