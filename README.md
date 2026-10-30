@@ -1,4 +1,8 @@
+
+
 <div width="100%">
+  <img src="" alt="Profile Banner" width="100%">
+
   <tr>
     <td align="left">
       <h1>{/} PROFILE</h1>
