@@ -74,8 +74,7 @@ Link Vedio in Fastwork.com --> https://drive.google.com/file/d/1RcKmaNF7ZSPUwW6v
 ## 🛍️ ABCat Shop
 <p>
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Jan-2026-red?style=flat-square" /> 
-  <img src="https://img.shields.io/badge/March-2026-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jan-2026-red?style=flat-square" /><img src="https://img.shields.io/badge/March-2026-red?style=flat-square" />
 </p>
 
 **Capstone Project**
@@ -114,8 +113,7 @@ Link AI Artist & Pet Product Designe --> https://abcat-brand.netlify.app/
 <p>
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Team-SMSMKT%20Team-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/May-2025-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/October-2025-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/May-2025-red?style=flat-square" /><img src="https://img.shields.io/badge/October-2025-red?style=flat-square" />
 </p>
 
 **Intern Project**
