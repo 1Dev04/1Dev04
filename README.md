@@ -190,5 +190,6 @@ Link Present Interview --> https://drive.google.com/file/d/1oKBXh0VweRcpNrJnKiVO
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-D6A600?style=flat&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-006680?style=flat&logo=react&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-779ECB?style=flat&logo=cloudinary&logoColor=white)
 
 ---
