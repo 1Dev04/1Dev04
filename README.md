@@ -72,16 +72,21 @@ Link Vedio in Fastwork.com --> https://drive.google.com/file/d/1RcKmaNF7ZSPUwW6v
 ![Gemini](https://img.shields.io/badge/Gemini-4796E3?style=flat&logo=gemini&logoColor=white)
 
 ## 🛍️ ABCat Shop
-<strong>Capstone Project</strong>
-> <strong>Mobile & Backend</strong>: Developed an eCommerce app using Flutter (Dart, BLoC) and FastAPI (Python), featuring an automated Smart Sizing feature.
+<p>
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Year-2026-red?style=flat-square" />
+</p>
+**Capstone Project**
 
-> <strong>AI Integration</strong>: Implemented a dual-stage OpenAI API pipeline to validate and detect,analyze image features, optimizing backend efficiency.
+> **Mobile & Backend**: Developed an eCommerce app using Flutter (Dart, BLoC) and FastAPI (Python), featuring an automated Smart Sizing feature.
 
-> <strong>Auth & Data Management</strong>: Configured secure JWT Authentication, Firebase user management, and a PostgreSQL database hosted on rootless Podman containers.
+> **AI Integration**: Implemented a dual-stage OpenAI API pipeline to validate and detect,analyze image features, optimizing backend efficiency.
 
-> <strong>Cloud & DevOps</strong>: Integrated Cloudinary CDN for asset delivery and automated Jenkins CI/CD with keep-alive scripts to eliminate Render cold starts.
+> **Auth & Data Management**: Configured secure JWT Authentication, Firebase user management, and a PostgreSQL database hosted on rootless Podman containers.
 
-> <strong>Deployment</strong>: Managed multi-platform distribution, deploying web frontends via Vercel/Netlify alongside end-to-end Android (APK) and iOS (IPA Local) builds.
+> **Cloud & DevOps**: Integrated Cloudinary CDN for asset delivery and automated Jenkins CI/CD with keep-alive scripts to eliminate Render cold starts.
+
+> **Deployment**: Managed multi-platform distribution, deploying web frontends via Vercel/Netlify alongside end-to-end Android (APK) and iOS (IPA Local) builds.
 
 
 Link Youtube --> https://www.youtube.com/watch?v=nYeDC6I-XfQ
@@ -106,18 +111,20 @@ Link AI Artist & Pet Product Designe --> https://abcat-brand.netlify.app/
 ## 🚀 ClickNext Co., Ltd. Intern
 <p>
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Year-2025-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Team-SMSMKT%20Team-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/May-2025-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/October-2025-red?style=flat-square" />
 </p>
 
-<strong>SMSMKT Team Project</strong>
+**Intern Project**
 
-> <strong>Full-Stack Development</strong>: Developed front-to-back features for SMSMKT business systems, including administrative BackOffice modules and SMS campaign controls using PHP, REST APIs, Bootstrap, and MySQL.
+> **Full-Stack Development**: Developed front-to-back features for SMSMKT business systems, including administrative BackOffice modules and SMS campaign controls using PHP, REST APIs, Bootstrap, and MySQL.
 
-> <strong>Modern Tech Platforms</strong>: Built the SMSMKT Monitor platform with Microsoft Authentication and admin features using NuxtJS (Vue), NestJS, and MongoDB.
+> **Modern Tech Platforms**: Built the SMSMKT Monitor platform with Microsoft Authentication and admin features using NuxtJS (Vue), NestJS, and MongoDB.
 
-> <strong>API & DevOps</strong>: Developed/tested Template Message APIs to improve system reliability, and streamlined workflows using Docker and CI/CD pipelines (Jenkins, GitLab).
+> **API & DevOps**: Developed/tested Template Message APIs to improve system reliability, and streamlined workflows using Docker and CI/CD pipelines (Jenkins, GitLab).
 
-> <strong>System Design</strong>: Collaborated in an SA-led workflow on requirement analysis, technical documentation, and structured system design.
+> **System Design**: Collaborated in an SA-led workflow on requirement analysis, technical documentation, and structured system design.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -133,23 +140,21 @@ Link AI Artist & Pet Product Designe --> https://abcat-brand.netlify.app/
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
 
 
-## 🏆 National ITMX – Hack to the Max 2024
+## 🏆 National ITMX – Hack to the Max
 
 <p>
   <img src="https://img.shields.io/badge/Role-Frontend%20Developer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Team-EYE%20Team-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Year-2024-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/October-2024-red?style=flat-square" />
 </p>
 
-**Digital Infrastructure Hackathon | October 2024**
+**Digital Infrastructure Hackathon**
 
 > 🥇 **Award:** 1st Place – Best of Track: Data Solution for Banks
 
 > 💻 **Project:** Fraud Detection & Monitoring Platform
 
-> ⚛️ **Frontend:** Next.js
 
-> 🔧 **Backend API:** Go
 
 **My Contributions**
 > Developed the POC web application using Next.js.
