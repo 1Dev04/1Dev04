@@ -74,8 +74,10 @@ Link Vedio in Fastwork.com --> https://drive.google.com/file/d/1RcKmaNF7ZSPUwW6v
 ## 🛍️ ABCat Shop
 <p>
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Year-2026-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jan-2026-red?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/March-2026-red?style=flat-square" />
 </p>
+
 **Capstone Project**
 
 > **Mobile & Backend**: Developed an eCommerce app using Flutter (Dart, BLoC) and FastAPI (Python), featuring an automated Smart Sizing feature.
