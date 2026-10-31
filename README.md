@@ -103,7 +103,12 @@ Link AI Artist & Pet Product Designe --> https://abcat-brand.netlify.app/
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0F0F0F?style=flat&logo=openai&logoColor=white)
 
-## ClickNext Co., Ltd. Intern
+## 🚀 ClickNext Co., Ltd. Intern
+<p>
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Year-2025-green?style=flat-square" />
+</p>
+
 <strong>SMSMKT Team Project</strong>
 
 > <strong>Full-Stack Development</strong>: Developed front-to-back features for SMSMKT business systems, including administrative BackOffice modules and SMS campaign controls using PHP, REST APIs, Bootstrap, and MySQL.
@@ -126,6 +131,27 @@ Link AI Artist & Pet Product Designe --> https://abcat-brand.netlify.app/
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-CC5500?style=flat&logo=postman&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
+
+
+## 🏆 National ITMX – Hack to the Max 2024
+
+<p>
+  <img src="https://img.shields.io/badge/Role-Frontend%20Developer-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Team-EYE%20Team-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Year-2024-green?style=flat-square" />
+</p>
+
+**Digital Infrastructure Hackathon | October 2024**
+
+> 🥇 **Award:** 1st Place – Best of Track: Data Solution for Banks
+> 💻 **Project:** Fraud Detection & Monitoring Platform
+> ⚛️ **Frontend:** Next.js
+> 🔧 **Backend API:** Go
+
+**My Contributions**
+> Developed the POC web application using Next.js.
+> Built frontend components for the fraud monitoring platform.
+> Collaborated on backend API integration with Go services.
 
 
 ---
