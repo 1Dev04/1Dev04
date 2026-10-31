@@ -170,6 +170,8 @@ Link Present Interview --> https://drive.google.com/file/d/1oKBXh0VweRcpNrJnKiVO
 
 > Collaborated on backend API integration with Go services.
 
+Link Youtube  --> https://www.youtube.com/clip/UgkxZJYlGrbciXjurkuopfWPmnDje1bfidfP
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
@@ -206,6 +208,8 @@ Link Present Interview --> https://drive.google.com/file/d/1oKBXh0VweRcpNrJnKiVO
 > **Project Highlight**: Successfully designed and developed D-MIRAGE, a multi-environment social hangout experience.
 
 > **3D Modeling & Design**: Formed unique 3D assets and environmental layouts using Blender to optimize in-game aesthetics.
+
+Link Game --> https://www.roblox.com/games/71645504910205/D-MIRAGE
 
 ![Lua](https://img.shields.io/badge/Lua-000080?style=flat&logo=lua&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-000000?style=flat&logo=blender&logoColor=white)
