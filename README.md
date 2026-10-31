@@ -46,12 +46,18 @@ Currently studying online through a Credit Accumulation Program toward a
 ---
 
 ## 🧾 SmartRFQ (BETA)
-<strong>RFQ Personal Project</strong>
->	<strong>Full-Stack & AI</strong>: Designed a multilingual, AI-assisted Request for Quotation (RFQ) platform using Vue.js, ASP.NET Core (C#/.NET), and Gemini API (My Plan: Use a OpenAI).
+<p>
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/June-2026-red?style=flat-square" /><img src="https://img.shields.io/badge/September-2026-red?style=flat-square" />
+</p>
 
->	<strong>Data Architecture</strong>: Engineered and managed dual-database environments utilizing SQL Server and Neon PostgreSQL.
+**RFQ Personal Project**
 
->	<strong>Cloud & Security</strong>: Managed Azure cloud infrastructure, integrating Microsoft Entra ID, secure Cookie Authentication, and Swagger UI for API documentation.
+>	**Full-Stack & AI**: Designed a multilingual, AI-assisted Request for Quotation (RFQ) platform using Vue.js, ASP.NET Core (C#/.NET), and Gemini API (My Plan: Use a OpenAI).
+
+>	**Data Architecture**: Engineered and managed dual-database environments utilizing SQL Server and Neon PostgreSQL.
+
+>	**Cloud & Security**: Managed Azure cloud infrastructure, integrating Microsoft Entra ID, secure Cookie Authentication, and Swagger UI for API documentation.
 
 Link Vedio in Fastwork.com --> https://drive.google.com/file/d/1RcKmaNF7ZSPUwW6vg_mybwMdTW9OQZdO/view?usp=sharing
 
