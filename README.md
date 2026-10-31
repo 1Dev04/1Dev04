@@ -118,12 +118,13 @@ Link AI Artist & Pet Product Designe --> https://abcat-brand.netlify.app/
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Ajax](https://img.shields.io/badge/Ajax-007ACC?style=flat&logo=ajax&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![NuxtJS](https://img.shields.io/badge/NuxtJS-00DC82?style=flat&logo=nuxt.js&logoColor=white)
-
+![NuxtJS](https://img.shields.io/badge/NuxtJS-00DC82?style=flat&logo=nuxtjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vuejs-238636?style=flat&logo=vue.js&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-4682B4?style=flat&logo=dbeaver&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-CC5500?style=flat&logo=postman&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
+
 
 ---
 ### :hammer_and_wrench: Tech Stack :
