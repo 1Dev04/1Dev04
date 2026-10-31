@@ -144,14 +144,21 @@ Link AI Artist & Pet Product Designe --> https://abcat-brand.netlify.app/
 **Digital Infrastructure Hackathon | October 2024**
 
 > 🥇 **Award:** 1st Place – Best of Track: Data Solution for Banks
+
 > 💻 **Project:** Fraud Detection & Monitoring Platform
+
 > ⚛️ **Frontend:** Next.js
+
 > 🔧 **Backend API:** Go
 
 **My Contributions**
 > Developed the POC web application using Next.js.
+
 > Built frontend components for the fraud monitoring platform.
+
 > Collaborated on backend API integration with Go services.
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 ---
