@@ -207,5 +207,9 @@ Link Present Interview --> https://drive.google.com/file/d/1oKBXh0VweRcpNrJnKiVO
 
 > **3D Modeling & Design**: Formed unique 3D assets and environmental layouts using Blender to optimize in-game aesthetics.
 
+![Lua](https://img.shields.io/badge/Lua-000080?style=flat&logo=lua&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-FFFFFF?style=flat&logo=blender&logoColor=white)
+
+
 
 ---
