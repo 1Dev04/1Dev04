@@ -163,8 +163,6 @@ Link Present Interview --> https://drive.google.com/file/d/1oKBXh0VweRcpNrJnKiVO
 
 > 💻 **Project:** Fraud Detection & Monitoring Platform
 
-
-
 **My Contributions**
 > Developed the POC web application using Next.js.
 
@@ -174,5 +172,23 @@ Link Present Interview --> https://drive.google.com/file/d/1oKBXh0VweRcpNrJnKiVO
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+## Website Portfolio 
+<p>
+  <img src="https://img.shields.io/badge/Role-Frontend%20Developer-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Year-2023-red?style=flat-square" /><img src="https://img.shields.io/badge/Year-2026-red?style=flat-square" />
+</p>
+
+> **Front-End Development**: Built a fully responsive personal portfolio website utilizing HTML, CSS, JavaScript, and React.
+
+> **Cloud Integration**: Implemented Cloudinary for optimized cloud image hosting and storage management.
+
+> **Deployment**: Successfully deployed and hosted the application on Netlify for seamless live access.
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-D6A600?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-006680?style=flat&logo=react&logoColor=white)
 
 ---
