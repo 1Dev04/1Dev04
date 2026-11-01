@@ -59,7 +59,7 @@ Currently studying online through a Credit Accumulation Program toward a
 
 >	**Cloud & Security**: Managed Azure cloud infrastructure, integrating Microsoft Entra ID, secure Cookie Authentication, and Swagger UI for API documentation.
 
-Link Vedio in Fastwork.com --> https://drive.google.com/file/d/1RcKmaNF7ZSPUwW6vg_mybwMdTW9OQZdO/view?usp=sharing
+Link Vedio --> https://drive.google.com/file/d/1RcKmaNF7ZSPUwW6vg_mybwMdTW9OQZdO/view?usp=sharing
 
 
 
