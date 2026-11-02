@@ -209,13 +209,17 @@ https://www.youtube.com/clip/UgkxZJYlGrbciXjurkuopfWPmnDje1bfidfP
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-D6A600?style=flat&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-006680?style=flat&logo=react&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-4682B4?style=flat&logo=typescript&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-779ECB?style=flat&logo=cloudinary&logoColor=white)
 
-Source Code:
+Source Code: React,Typescript,Cloudinary
 ```
 https://github.com/1Dev04/krittiphon-portfolios.git
 ```
-
+Source Code: HTML, CSS, JavaScript
+```
+https://github.com/1Dev04/PortfoilioHtml.git
+```
 
 ## 🛠️ Roblox Game Developer
 <p>
