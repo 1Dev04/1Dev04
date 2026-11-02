@@ -192,7 +192,7 @@ https://www.youtube.com/clip/UgkxZJYlGrbciXjurkuopfWPmnDje1bfidfP
 ```
 
 
-## Website Portfolio 
+## 👨‍💻 Website Portfolio 
 <p>
   <img src="https://img.shields.io/badge/Role-Frontend%20Developer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Year-2023-red?style=flat-square" /><img src="https://img.shields.io/badge/Year-2026-red?style=flat-square" />
