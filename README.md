@@ -59,9 +59,10 @@ Currently studying online through a Credit Accumulation Program toward a
 
 >	**Cloud & Security**: Managed Azure cloud infrastructure, integrating Microsoft Entra ID, secure Cookie Authentication, and Swagger UI for API documentation.
 
-Link Vedio --> https://drive.google.com/file/d/1RcKmaNF7ZSPUwW6vg_mybwMdTW9OQZdO/view?usp=sharing
-
-
+Link Youtube:
+```
+https://drive.google.com/file/d/1RcKmaNF7ZSPUwW6vg_mybwMdTW9OQZdO/view?usp=sharing
+```
 
 
 
@@ -96,10 +97,15 @@ Link Vedio --> https://drive.google.com/file/d/1RcKmaNF7ZSPUwW6vg_mybwMdTW9OQZdO
 
 > **Deployment**: Managed multi-platform distribution, deploying web frontends via Vercel/Netlify alongside end-to-end Android (APK) and iOS (IPA Local) builds.
 
+Link Youtube:
+```
+https://www.youtube.com/watch?v=nYeDC6I-XfQ
+```
 
-Link Youtube --> https://www.youtube.com/watch?v=nYeDC6I-XfQ
-
-Link AI Artist & Pet Product Designe --> https://abcat-brand.netlify.app/
+Link AI Artist & Pet Product Designe:
+```
+https://abcat-brand.netlify.app/
+```
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -133,7 +139,10 @@ Link AI Artist & Pet Product Designe --> https://abcat-brand.netlify.app/
 
 > **System Design**: Collaborated in an SA-led workflow on requirement analysis, technical documentation, and structured system design.
 
-Link Present Interview --> https://drive.google.com/file/d/1oKBXh0VweRcpNrJnKiVO9IPsj8aA9T7V/view?usp=sharing
+Link Present Interview:
+```
+https://drive.google.com/file/d/1oKBXh0VweRcpNrJnKiVO9IPsj8aA9T7V/view?usp=sharing
+```
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -170,10 +179,15 @@ Link Present Interview --> https://drive.google.com/file/d/1oKBXh0VweRcpNrJnKiVO
 
 > Collaborated on backend API integration with Go services.
 
-Link Youtube  --> https://www.youtube.com/clip/UgkxZJYlGrbciXjurkuopfWPmnDje1bfidfP
+Link Youtube:
+```
+https://www.youtube.com/clip/UgkxZJYlGrbciXjurkuopfWPmnDje1bfidfP
+```
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+
 
 ## Website Portfolio 
 <p>
@@ -194,7 +208,7 @@ Link Youtube  --> https://www.youtube.com/clip/UgkxZJYlGrbciXjurkuopfWPmnDje1bfi
 ![React](https://img.shields.io/badge/React-006680?style=flat&logo=react&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-779ECB?style=flat&logo=cloudinary&logoColor=white)
 
-### Source Code:
+Source Code:
 ```
 https://github.com/1Dev04/krittiphon-portfolios.git
 ```
