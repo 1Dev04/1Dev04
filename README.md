@@ -214,7 +214,11 @@ https://github.com/1Dev04/krittiphon-portfolios.git
 
 > **3D Modeling & Design**: Formed unique 3D assets and environmental layouts using Blender to optimize in-game aesthetics.
 
-Link Game --> https://www.roblox.com/games/71645504910205/D-MIRAGE
+
+Link Game:
+```
+https://www.roblox.com/games/71645504910205/D-MIRAGE
+```
 
 ![Lua](https://img.shields.io/badge/Lua-000080?style=flat&logo=lua&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-000000?style=flat&logo=blender&logoColor=white)
