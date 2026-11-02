@@ -59,16 +59,6 @@ Currently studying online through a Credit Accumulation Program toward a
 
 >	**Cloud & Security**: Managed Azure cloud infrastructure, integrating Microsoft Entra ID, secure Cookie Authentication, and Swagger UI for API documentation.
 
-Link Youtube:
-```
-https://drive.google.com/file/d/1RcKmaNF7ZSPUwW6vg_mybwMdTW9OQZdO/view?usp=sharing
-```
-
-
-
-
-
-
 ![Vue.js](https://img.shields.io/badge/Vuejs-238636?style=flat&logo=vue.js&logoColor=white)
 ![ASP.NET_Core](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=white)
@@ -77,6 +67,11 @@ https://drive.google.com/file/d/1RcKmaNF7ZSPUwW6vg_mybwMdTW9OQZdO/view?usp=shari
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4796E3?style=flat&logo=gemini&logoColor=white)
+
+Link Youtube:
+```
+https://drive.google.com/file/d/1RcKmaNF7ZSPUwW6vg_mybwMdTW9OQZdO/view?usp=sharing
+```
 
 ## 🛍️ ABCat Shop
 <p>
@@ -97,16 +92,6 @@ https://drive.google.com/file/d/1RcKmaNF7ZSPUwW6vg_mybwMdTW9OQZdO/view?usp=shari
 
 > **Deployment**: Managed multi-platform distribution, deploying web frontends via Vercel/Netlify alongside end-to-end Android (APK) and iOS (IPA Local) builds.
 
-Link Youtube:
-```
-https://www.youtube.com/watch?v=nYeDC6I-XfQ
-```
-
-Link AI Artist & Pet Product Designe:
-```
-https://abcat-brand.netlify.app/
-```
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-D2A838?style=flat&logo=python&logoColor=white)
@@ -121,6 +106,16 @@ https://abcat-brand.netlify.app/
 ![Netlify](https://img.shields.io/badge/Netlify-1F6FEB?style=flat&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0F0F0F?style=flat&logo=openai&logoColor=white)
+
+Link Youtube:
+```
+https://www.youtube.com/watch?v=nYeDC6I-XfQ
+```
+
+Link AI Artist & Pet Product Designe:
+```
+https://abcat-brand.netlify.app/
+```
 
 ## 🚀 ClickNext Co., Ltd. Intern
 <p>
@@ -139,11 +134,6 @@ https://abcat-brand.netlify.app/
 
 > **System Design**: Collaborated in an SA-led workflow on requirement analysis, technical documentation, and structured system design.
 
-Link Present Interview:
-```
-https://drive.google.com/file/d/1oKBXh0VweRcpNrJnKiVO9IPsj8aA9T7V/view?usp=sharing
-```
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Ajax](https://img.shields.io/badge/Ajax-007ACC?style=flat&logo=ajax&logoColor=white)
@@ -157,6 +147,10 @@ https://drive.google.com/file/d/1oKBXh0VweRcpNrJnKiVO9IPsj8aA9T7V/view?usp=shari
 ![Postman](https://img.shields.io/badge/Postman-CC5500?style=flat&logo=postman&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
 
+Link Present Interview:
+```
+https://drive.google.com/file/d/1oKBXh0VweRcpNrJnKiVO9IPsj8aA9T7V/view?usp=sharing
+```
 
 ## 🏆 National ITMX – Hack to the Max
 
@@ -179,14 +173,13 @@ https://drive.google.com/file/d/1oKBXh0VweRcpNrJnKiVO9IPsj8aA9T7V/view?usp=shari
 
 > Collaborated on backend API integration with Go services.
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
 Link Youtube:
 ```
 https://www.youtube.com/clip/UgkxZJYlGrbciXjurkuopfWPmnDje1bfidfP
 ```
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
 
 
 ## Website Portfolio 
@@ -228,14 +221,13 @@ https://github.com/1Dev04/krittiphon-portfolios.git
 
 > **3D Modeling & Design**: Formed unique 3D assets and environmental layouts using Blender to optimize in-game aesthetics.
 
+![Lua](https://img.shields.io/badge/Lua-000080?style=flat&logo=lua&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-000000?style=flat&logo=blender&logoColor=white)
 
 Link Game:
 ```
 https://www.roblox.com/games/71645504910205/D-MIRAGE
 ```
-
-![Lua](https://img.shields.io/badge/Lua-000080?style=flat&logo=lua&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-000000?style=flat&logo=blender&logoColor=white)
 
 
 
