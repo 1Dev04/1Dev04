@@ -68,7 +68,7 @@ Currently studying online through a Credit Accumulation Program toward a
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4796E3?style=flat&logo=gemini&logoColor=white)
 
-Link How to use:
+Link how to use:
 ```
 https://drive.google.com/file/d/1RcKmaNF7ZSPUwW6vg_mybwMdTW9OQZdO/view?usp=sharing
 ```
