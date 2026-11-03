@@ -198,7 +198,7 @@ https://www.youtube.com/clip/UgkxZJYlGrbciXjurkuopfWPmnDje1bfidfP
   <img src="https://img.shields.io/badge/Year-2023-red?style=flat-square" /><img src="https://img.shields.io/badge/Year-2026-red?style=flat-square" />
 </p>
 
-> **Front-End Development**: Built a fully responsive personal portfolio website utilizing HTML, CSS, JavaScript, and React.
+> **Front-End Development**: Built a fully responsive personal portfolio website utilizing HTML, CSS, JavaScript,Typescript and React.
 
 > **Cloud Integration**: Implemented Cloudinary for optimized cloud image hosting and storage management.
 
