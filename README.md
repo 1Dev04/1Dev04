@@ -157,7 +157,7 @@ https://github.com/1Dev04/shop_app.git
 ![Postman](https://img.shields.io/badge/Postman-CC5500?style=flat&logo=postman&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
 
-Link Present Interview:
+Link presentation :
 ```
 https://drive.google.com/file/d/1oKBXh0VweRcpNrJnKiVO9IPsj8aA9T7V/view?usp=sharing
 ```
